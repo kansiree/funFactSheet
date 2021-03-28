@@ -1,0 +1,10 @@
+{
+    "WorkingDir": ".",
+    "SourceDir": [
+        "."
+    ],
+    "SourceExt": [".c", ".cpp", ".go", ".h"],
+    "BuildCmd": "go build funFactSheet.go",
+    "RunCmd": "./funFactSheet",
+    "Decreasing": 1
+}
